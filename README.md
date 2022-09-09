@@ -23,7 +23,7 @@
 
 I'm Marvellous, an aspiring fullstack web developer who's passionate about coding stuff. I'm also a self-taught intermediate Chinese speaker and I enjoy solving HackerRank challenges and playing chess in my free time.
 
-I have experience working with **JavaScript**, **Python**, **HTML**, **CSS**, **Flask**, and **SQL**.
+I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **SASS**, **Flask**, and **SQL**.
 
 🌱 I’m currently learning to work with React, Node js and Ruby on Rails.
 
