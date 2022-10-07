@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/marvellous-adeogun-4a4550216">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/MarsReborn?t=J89VEvz3LWThK9-ozxDSXQ&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -27,7 +27,7 @@ I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, 
 
 🌱 I’m currently learning to work with React, Node js and Ruby on Rails.
 
-👯 I’m looking to collaborate on projects based on the MERN stack.
+👯 I’m looking to collaborate on JavaScript projects.
 Here's my [personal portfolio](https://github.com/MarsIncarnate/developer_portfolio), feel free to leave comments. 
 
 📫 You can reach me on [WhatsApp](wa.me/+2349038852706)
