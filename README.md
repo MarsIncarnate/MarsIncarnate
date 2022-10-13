@@ -21,14 +21,14 @@
 ### :man_technologist: About Me :
 
 
-I'm Marvellous, an aspiring fullstack web developer who's passionate about coding stuff. I'm also a self-taught intermediate Chinese speaker and I enjoy solving HackerRank challenges and playing chess in my free time.
+I'm Marvellous, a junior fullstack web developer who's passionate about solving problems. I'm also a self-taught intermediate Chinese speaker and I enjoy solving HackerRank challenges and playing chess in my free time.
 
-I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **SASS**, **Flask**, and **SQL**.
+I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**, **SASS**, **Flask**, **SQL**.
 
-🌱 I’m currently learning to work with React, Node js and Ruby on Rails.
+🌱 I’m currently learning to work with Next js, Node js and Ruby on Rails.
 
-👯 I’m looking to collaborate on JavaScript projects.
-Here's my [personal portfolio](https://github.com/MarsIncarnate/developer_portfolio), feel free to leave comments. 
+👯 I’m looking to collaborate on frontend and backend projects.
+Here's my [personal portfolio](https://marsreborn.netlify.app), check it out! 
 
 📫 You can reach me on [WhatsApp](wa.me/+2349038852706)
 
