@@ -48,7 +48,7 @@ Here's my [personal portfolio](https://marsreborn.netlify.app), check it out!
 
 ### :fire: My Stats :
 
-[![Marvellous' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsIncarnate)](https://github.com/MarsIncarnate/github-readme-stats)
+[![Marvellous' GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsIncarnate&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/MarsIncarnate/github-readme-stats)
 
 
 ### My Top Languages:
