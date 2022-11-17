@@ -23,7 +23,7 @@
 
 I'm Marvellous, a freelance junior fullstack web developer who's passionate about solving problems. I'm also a self-taught intermediate Chinese speaker and I enjoy solving problems on HackerRank in JavaScript and playing chess in my free time.
 
-I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**, **SASS**, **Flask**, **SQL**.
+I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**, **SASS**, **Flask**, **SQL**, **Docker**, and **AWS**.
 
 🌱 I’m currently learning to work with the MERN stack.
 
