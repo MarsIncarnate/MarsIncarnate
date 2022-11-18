@@ -25,7 +25,7 @@ I'm Marvellous, a freelance junior fullstack web developer who's passionate abou
 
 I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**, **SASS**, **Flask**, **SQL**, **Docker**, and **AWS**.
 
-🌱 I’m currently learning to work with the MERN stack.
+🌱 I’m currently learning to work with the MERN stacks.
 
 👯 I’m looking to collaborate on fullstack web projects.
 Here's my [personal portfolio](https://marsreborn.netlify.app), check it out! 
