@@ -59,5 +59,7 @@ Here's my [personal portfolio](https://marsreborn.netlify.app), check it out!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsIncarnate)](https://github.com/MarsIncarnate/github-readme-stats)
 
+### GitHub Streak
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarsIncarnate&theme=dark&background=000000)](https://git.io/streak-stats)
 
