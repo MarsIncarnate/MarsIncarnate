@@ -23,7 +23,7 @@
 
 I'm Marvellous, a fullstack web developer and web designer who's passionate about solving problems. I'm also a self-taught intermediate Chinese speaker and I enjoy solving problems on HackerRank and playing chess in my free time.
 
-I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**, **SASS**, **Flask**, **SQL**, **Docker**, and **AWS** and CMS like **Wix** **Shopify** **Wordpress**.
+I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**, **SASS**, **Flask**, **SQL**, **Docker**, and **AWS** and various ***CMS*** like **Wix**, **Editor X**, **Shopify**, **Webflow**, and **Wordpress**.
  
 
 👯 I’m looking to collaborate on web design projects.
