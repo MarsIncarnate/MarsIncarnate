@@ -20,14 +20,17 @@
 
 ### :man_technologist: About Me :
 
+Hi! I'm Marvellous, a full-stack web developer with a passion for crafting beautiful and functional user interfaces.  React.js is my go-to framework for building dynamic and performant web applications.  I also possess strong front-end development skills with experience in JavaScript, HTML5, CSS3, and libraries like Bootstrap and Tailwind.
 
-I'm Marvellous, a fullstack web developer and web designer who's passionate about solving problems. I'm also a self-taught intermediate Chinese speaker and I enjoy solving problems on HackerRank and playing chess in my free time.
+Looking for a React Challenge!
 
-I have experience working with **JavaScript**, **Python**, **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**, **SASS**, **Flask**, **SQL**, **Docker**, and **AWS** and various ***CMS*** like **Wix**, **Editor X**, **Shopify**, **Webflow**, and **Wordpress**.
- 
+I'm particularly interested in the MERN Stack and eager to leverage my skills in Redux, Flux, and Webpack to contribute to a well-documented codebase. My experience with performance optimization ensures a smooth user experience across all devices.
 
-👯 I’m looking to collaborate on web design projects.
-Here's my [personal portfolio](https://marsreborn.netlify.app), check it out! 
+Beyond React:
+
+While my focus is on front-end development, I'm also a well-rounded full-stack developer with experience in Python, Flask, SQL, Docker, AWS, and various CMS platforms like Wix, Shopify, and WordPress.
+
+Bonus:  I'm a self-taught intermediate Chinese speaker and enjoy tackling problems on HackerRank and playing chess in my free time.  ♟️
 
 📫 You can reach me on [WhatsApp](wa.me/+2349038852706)
 
@@ -57,8 +60,3 @@ Here's my [personal portfolio](https://marsreborn.netlify.app), check it out!
 ### My Top Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsIncarnate)](https://github.com/MarsIncarnate/github-readme-stats)
-
-### GitHub Streak
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarsIncarnate&theme=dark&background=000000)](https://git.io/streak-stats)
-
