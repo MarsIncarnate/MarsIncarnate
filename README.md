@@ -20,13 +20,14 @@
 
 ### :man_technologist: About Me :
 
-Hi! I'm Marvellous, a full-stack web developer passionate about building exceptional user interfaces with React.js.  Next.js and TypeScript are my tools of choice for crafting performant and scalable web applications.  I also possess strong front-end development skills honed through experience with JavaScript, HTML5, CSS3, and libraries like Bootstrap and Tailwind.
+Hi! I'm Marvellous, a full-stack web developer passionate about building exceptional user interfaces with React.js.  
+Next.js and TypeScript are my tools of choice for crafting performant and scalable web applications.  I also possess strong front-end development skills honed through experience with JavaScript, HTML5, CSS3, and libraries like Bootstrap and Tailwind.
 
-Looking to Contribute to the success of your Project!
+# Looking to Contribute to the success of your Project!
 
 As a MERN Stack developer, I'm eager to leverage my knowledge of Redux, Vite, Flux, Tailwind, and Webpack to contribute to a well-documented codebase. I'm proficient in performance optimization techniques ensuring a seamless user experience across all devices.
 
-Beyond React:
+# Beyond React:
 
 While my focus is on front-end development, I'm a well-rounded full-stack developer with experience in Python, Flask, SQL, Docker, AWS, and various CMS platforms like Wix, Shopify, and WordPress.
 
